@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="hash" unicode="&#xe800;" d="M799 462l-153 0-28-223 181 0 0-112-195 0-28-224-112 0 28 224-223 0-28-224-111 0 27 224-139 0 0 112 154 0 27 223-181 0 0 112 196 0 27 223 112 0-28-223 223 0 28 223 112 0-28-223 139 0 0-112z m-293-223l28 223-223 0-28-223 223 0z" horiz-adv-x="817" />
+
+<glyph glyph-name="hashtag" unicode="&#xf292;" d="M553 279l36 142h-142l-36-142h142z m429 281l-32-125q-4-14-17-14h-182l-36-142h173q9 0 14-7 6-8 4-16l-32-125q-2-13-17-13h-182l-45-183q-4-14-18-14h-125q-9 0-14 7-5 7-4 16l44 174h-142l-45-183q-4-14-17-14h-126q-8 0-14 7-5 7-3 16l43 174h-173q-9 0-14 7-5 6-4 15l32 125q4 14 17 14h182l36 142h-173q-9 0-14 7-6 8-4 16l32 125q2 13 17 13h182l46 183q3 14 17 14h125q9 0 14-7 5-7 4-16l-44-174h142l45 183q4 14 18 14h125q8 0 14-7 5-7 3-16l-43-174h173q9 0 14-7 5-6 4-15z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
